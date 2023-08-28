@@ -1,2 +1,3 @@
 # Wordle
-Wordle game
+
+A simple Wordle game in Python
