@@ -40,3 +40,5 @@ def game2():
           else:
             print("  ❌")
       print("You have {} guesses remaining.".format(guessNum1))
+
+game2()
