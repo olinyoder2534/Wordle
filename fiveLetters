@@ -84,3 +84,5 @@ def game():
             print("You have {} guesses remaining.".format(5 - guessNum))
   if guessNum == 5:
     print("Game over. The correct word was {}.".format(word))
+
+game()
